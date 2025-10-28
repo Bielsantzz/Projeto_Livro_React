@@ -1,0 +1,12 @@
+.container{
+    height: 80vh;
+    background-color: #775833;
+    width: 100vw;
+}
+
+.titulo{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

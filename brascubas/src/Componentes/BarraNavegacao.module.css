@@ -1,0 +1,15 @@
+.barraNavegacao{
+    height: 100px;
+    background-color: cadetblue;
+    color: black;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
