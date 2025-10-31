@@ -1,3 +1,22 @@
-.Autor{
-    color: red;
+.body{
+    background: linear-gradient(#1E3A8A,#0D0D0D);
+}
+
+
+.nome h1{
+    color: #ffd900;
+    text-align: center;
+    margin: 50px 0;
+}
+
+.bio{
+    color: #ffff;
+    text-align: center;
+    margin: 30px auto;
+    max-width: 700px;
+}
+
+.imgContainer {
+    display: flex;
+    justify-content: center;
 }
