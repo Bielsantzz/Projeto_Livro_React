@@ -1,22 +1,35 @@
-.body{
-    background: linear-gradient(#1E3A8A,#0D0D0D);
+.fundo {
+    background: linear-gradient(#800000,black); 
+    min-height: 100vh; 
+    padding: 20px;
 }
 
-
-.nome h1{
-    color: #ffd900;
-    text-align: center;
-    margin: 50px 0;
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
-.bio{
-    color: #ffff;
+.autor {
+    color: #FFD700; 
+    font-size: 2em;
+    margin-bottom: 20px;
     text-align: center;
-    margin: 30px auto;
-    max-width: 700px;
 }
 
 .imgContainer {
     display: flex;
     justify-content: center;
+}
+
+.imgContainer img {
+    max-width: 300px;
+    border-radius: 10px;
+}
+
+
+.bio {
+    color: #ffffff;
+    line-height: 1.6;
+    margin-top: 20px;
 }

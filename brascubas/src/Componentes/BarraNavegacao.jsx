@@ -5,9 +5,9 @@ export function BarraNavegacao(){
     return(
         <nav className={estilo.onde}>
             <ul>
-                <Link to= '/'><li>Meu Livro</li></Link>
-                <Link to= 'autor'><li>Autor</li></Link>
-                <Link to= 'curiosidade'><li>Curiosidades</li></Link>
+                <li><Link to="/">Meu Livro</Link></li>
+                <li><Link to="autor">Autor</Link></li>
+                <li><Link to="curiosidade">Curiosidades</Link></li>
             </ul>
         </nav>
     )
