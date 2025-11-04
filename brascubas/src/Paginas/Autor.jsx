@@ -26,33 +26,21 @@ export function Autor() {
                         teve grande influência em suas obras.
                     </p>
                     
-
                          <br />
-
 
                     <p>
                         Além de seu trabalho em mangá, Kurumada também escreveu roteiros para animações e supervisionou algumas adaptações de suas obras. 
                         Ele é conhecido por seu estilo de desenho dinâmico e cenas de luta detalhadas, influenciando muitos mangakás que vieram depois.
                     </p>
 
-
                         <br />
-
 
                     <p>
                         Apesar de seu sucesso, Kurumada é uma figura reservada e pouco midiática, preferindo manter seu foco na criação de histórias e desenhos.
                          Hoje, ele é considerado um dos grandes nomes do mangá shōnen clássico, com uma carreira que atravessa décadas.
                     </p>
 
-
-
-
-
-
-
-
-
-
+                 
                 </div>
             </section>
         </div>

@@ -1,5 +1,11 @@
+.fundoinicial{
+    background: linear-gradient(#1A3D7C, #6A0DAD);
+    min-height: 100vh;
+
+}
+
 .titulo{
-    color: rgb(0, 0, 0);
+    color: #FFD700;
     text-align: center;
     font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -10,4 +16,21 @@
     padding-top: 50px; 
     text-align: center; 
 }
+
+.zodiaco{
+    width: 290px;
+    max-width: 100%;
+    height: auto;
+    border: 3px solid #FFD700; 
+    border-radius: 15px;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    max-width: 800px;
+    margin:   auto;
+    padding: 10px;
+}
+
 

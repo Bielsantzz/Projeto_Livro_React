@@ -1,0 +1,43 @@
+.fundao{
+    background: linear-gradient(#0A0F2D, #1A2569, #4B1F7A);
+    min-height: 100%;
+} 
+ 
+ .titulo{
+    text-align: center;
+    padding: 50px;
+    color: white;
+ }
+
+ h2{
+    text-align: center;
+    color: #FFD700;
+    padding: 30px;
+ }
+
+.copia{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.texto{
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.pegasu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.mitologia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

@@ -1,17 +1,18 @@
 .fundo {
-    background: linear-gradient(#800000,black); 
-    min-height: 100vh; 
-    padding: 20px;
+    background: linear-gradient(#800000, black);
+    min-height: 100vh;
+    margin: 0;
+    padding: 0; 
 }
 
 .container {
     max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+    margin: 0 auto; 
+    padding: 80px; 
 }
 
 .autor {
-    color: #FFD700; 
+    color: #FFD700;
     font-size: 2em;
     margin-bottom: 20px;
     text-align: center;
@@ -19,16 +20,16 @@
 
 .imgContainer {
     display: flex;
-    justify-content: center;
+    justify-content: center;   
 }
 
 .imgContainer img {
-    max-width: 300px;
+    max-width: 500px;
     border-radius: 10px;
 }
 
-
 .bio {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;
     line-height: 1.6;
     margin-top: 20px;
